@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anumod-c
 - 👀 I’m interested in  - Web development
 - 🌱 I’m currently learning - Microservice
-- 📫 How to reach me  -  anumodc@gmail.com
+- 📫 How to reach me  -  anumodc2001@gmail.com
 .
 
 <!---
